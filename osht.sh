@@ -148,7 +148,7 @@ EOF
 
 function _osht_end_junit {
     cat <<EOF
-</testsuit></testsuites>
+</testsuite></testsuites>
 EOF
 }
 
